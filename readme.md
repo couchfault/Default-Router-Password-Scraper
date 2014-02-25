@@ -5,5 +5,7 @@ There is no installation necessary, just clone the repository.
 Usage:
 
 import scrape_passwords
+
 users = scrape_passwords.get_all_users()
+
 passwords = scrape_passwords.get_all_passwords()
